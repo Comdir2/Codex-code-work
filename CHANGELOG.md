@@ -4,6 +4,14 @@ All notable changes to this project are documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html) for documented releases.
 
+## [Unreleased]
+
+### Added
+
+- Self-contained repository validation for required skill files, a restricted YAML metadata subset, central service links, inline and reference-style local Markdown targets, and workflow safety.
+- GitHub Actions workflow and nine positive and negative-path tests for the repository validator.
+- Central public service-request link with explicit guidance not to disclose secrets or private code.
+
 ## [1.0.0] - 2026-07-20
 
 ### Added

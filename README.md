@@ -78,6 +78,12 @@ Code Work is the implementation skill. [Code Verification](https://github.com/Co
 
 For a higher-assurance workflow, use Code Work to implement the authorized change, then start a separate verification task with `code-verification`. Separation helps the verifier assess the requirements and evidence without silently extending the implementation scope.
 
+## Professional help
+
+If you want repository onboarding, custom implementation guardrails, or a separately scoped delivery engagement, use the [central service request form](https://github.com/Comdir2/Codex-engineering-guardrails/issues/new?template=service-request.yml). The form creates a public GitHub issue, so provide only a sanitized summary. Do not post credentials, private repository contents, proprietary source code, customer data, private URLs, or commercial secrets.
+
+Opening the form is only a request to discuss scope. It is not an order, quote, contract, or authorization to begin work. See [Services](SERVICES.md) for the available engagement types and non-binding starting ranges.
+
 ## Project documentation
 
 - [Quickstart](docs/quickstart.md)

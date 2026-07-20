@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Professional services / Профессиональные услуги
+    url: https://github.com/Comdir2/Codex-engineering-guardrails/issues/new?template=service-request.yml
+    about: Open the public service-request form; do not share secrets, private code, or customer data.

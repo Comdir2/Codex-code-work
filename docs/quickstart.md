@@ -78,3 +78,4 @@ The verification task should not silently fix findings unless the user separatel
 - Browse [realistic prompt examples](../examples/README.md).
 - Review the [engineering decision guides](../references/engineering-decisions.md).
 - Read the [support policy](../SUPPORT.md) before opening an issue.
+- For optional repository onboarding or a separately scoped engagement, read [Services](../SERVICES.md) and use the [central service request form](https://github.com/Comdir2/Codex-engineering-guardrails/issues/new?template=service-request.yml). The form is public; never include secrets, private code, customer data, or private URLs.
