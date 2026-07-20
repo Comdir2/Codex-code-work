@@ -40,11 +40,13 @@ Before submitting:
 - confirm `SKILL.md` retains valid YAML frontmatter with `name` and `description`;
 - confirm `agents/openai.yaml` remains valid YAML if it was changed;
 - inspect all Markdown links and relative paths;
+- run `python3 scripts/validate_skill.py`;
+- run `python3 -m unittest discover -s tests`;
 - run `git diff --check`;
 - review the complete diff for unrelated edits and sensitive information;
 - update `CHANGELOG.md` when the change is user-visible.
 
-If an official Codex skill validator is available in your environment, run it and report the exact command and result. If it is unavailable, state that limitation and provide the closest structural checks you performed.
+The repository validator is a self-contained structural check; it is not a substitute for an official Codex skill validator. If an official validator is available in your environment, run it too and report the exact command and result. If it is unavailable, state that limitation.
 
 ## License of contributions
 

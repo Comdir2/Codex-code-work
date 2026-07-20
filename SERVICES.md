@@ -23,14 +23,14 @@ These are non-binding planning ranges, not an offer or quote. Final scope, price
 
 ## Requesting a discussion
 
-Open a [GitHub issue](https://github.com/Comdir2/Codex-code-work/issues/new) with a title beginning `[Services]` and a non-confidential summary of:
+Open the [central service request form](https://github.com/Comdir2/Codex-engineering-guardrails/issues/new?template=service-request.yml) and provide a non-confidential summary of:
 
 - the repository type and technology stack;
 - the implementation or workflow outcome sought;
 - the important boundaries and environments;
 - the desired form of evidence or deliverable.
 
-Do not post credentials, proprietary code, customer information, private URLs, or commercial secrets in the public issue. A public issue is only a request to discuss scope; it is not an order, contract, quote, or authorization to begin work.
+The form creates a public GitHub issue. Do not post credentials, private repository contents, proprietary source code, customer information, private URLs, confidential logs, or commercial secrets. If the work cannot be described safely in public, submit only a sanitized boundary and indicate that further details require an agreed private channel. A public issue is only a request to discuss scope; it is not an order, contract, quote, or authorization to begin work.
 
 ## Pricing and claims
 
